@@ -20,3 +20,7 @@ The grid system has 2 major breakpoints (feel free to add some) :
 
 - 980px (smaller than a 'normal' desktop screen)
 - 500px (smaller than a 'normal' tablet screen)
+
+## Files
+
+Here are the dev file (CSS), the LESS file and the prod file (min CSS)
