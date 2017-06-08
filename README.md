@@ -1,6 +1,6 @@
 # toad.css
-## toad.css is just my (very) tiny CSS grid system
-###### Feel free to use / customize it
+## toad.css is just my (very) tiny CSS grid system, lovely customizable with a flex system
+###### Feel free to use / customize it / suggest some improvements
 
 ## Grid
 
