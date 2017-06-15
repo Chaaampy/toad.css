@@ -14,7 +14,7 @@ Want to clear the float ? Add the toad-clear class to any element
 
 You can also add a toad-full (100% width) or a toad-fullscreen (100vw width) class to any element
 
-## Reponsive
+## Responsive
 
 The grid system has 2 major breakpoints (feel free to add some) :
 
