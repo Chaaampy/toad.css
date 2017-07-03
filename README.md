@@ -27,4 +27,4 @@ Here are the dev file (CSS), the LESS file and the prod file (min CSS)
 
 ## Website
 
-This project is available online at [I'm an inline-style link](http://toadcss.tonyevariste.com/)
+This project is available online at [toadcss.tonyevariste.com](http://toadcss.tonyevariste.com/)
