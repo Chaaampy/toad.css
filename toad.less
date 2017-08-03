@@ -1,21 +1,33 @@
+// BREAKPOINTS
+
+@max:980px;
+@min:500px;
 
 //GRID
 
 .toad-full {
     width: 100%;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
 }
 
 .toad-fullscreen {
     width: 100vw;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
 }
 
 .toad-container {
-    width: 980px;
+    width: @max;
     margin: 10px auto;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
     
     div {
         float: left;
         margin: 10px;
+        -webkit-box-sizing:border-box;
+        box-sizing:border-box;
     }
 }
 
@@ -63,7 +75,7 @@
 
 //RESPONSIVE
 
-@media only screen and (min-width:500px) and (max-width:980px) {
+@media only screen and (min-width:@min) and (max-width:@max) {
     .toad-container  {
         width : 100%;
         
@@ -111,7 +123,7 @@
     
 }
 
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:@min) {
     .toad-container  {
         width : 100%;
         
