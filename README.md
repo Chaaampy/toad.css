@@ -4,7 +4,7 @@
 
 ## Grid
 
-The main container is 980px width
+The main container is 980px width. Want to change this width ? Just edit the @grid-width variable at the top of the LESS file
 
 Here is the different combination with the grid system
 
@@ -12,16 +12,18 @@ Just add a toad-container class to your wrapper, and then add the t-1, t-2, t-3 
 
 Want to clear the float ? Add the toad-clear class to any element
 
+Want to remove the gutters ? Just add the no-gutters class to the main container
+
 You can also add a toad-full (100% width) or a toad-fullscreen (100vw width) class to any element
 
 ## Responsive
 
-The grid system has 2 major breakpoints (feel free to add some) :
+The grid system has 2 major breakpoints :
 
-- 980px (smaller than a 'normal' desktop screen)
-- 500px (smaller than a 'normal' tablet screen)
+- 980px (the @grid-width variable)
+- 736px (@breakpoint var)
 
-You can edit them by changing the @max and @min variables at the top of the LESS file, feel free to add more by the way
+You can edit them by changing the variables at the top of the LESS file, feel free to add more by the way
 
 ## Files
 
