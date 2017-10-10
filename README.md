@@ -21,7 +21,7 @@ You can also add a toad-full (100% width) or a toad-fullscreen (100vw width) cla
 The grid system has 2 major breakpoints :
 
 - 980px (the @grid-width variable)
-- 736px (@breakpoint var)
+- 736px (the @breakpoint variable)
 
 You can edit them by changing the variables at the top of the LESS file, feel free to add more by the way
 
