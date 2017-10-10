@@ -4,7 +4,7 @@
 
 ## Grid
 
-The main container is 980px width. Want to change this width ? Just edit the @grid-width variable at the top of the LESS file
+The main container is 980px width. Want to change this width ? Just edit the @grid-width variable at the top of the LESS file, if you want to edit the grid, you will need [toadcss.tonyevariste.com](http://lesscss.org/)
 
 Here is the different combination with the grid system
 
